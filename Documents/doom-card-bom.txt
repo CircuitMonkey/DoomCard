@@ -1,0 +1,29 @@
+Partlist DoomCard Rev. A
+
+Part   Value          Device                     Package              Description               MFR MPN
+16MHZ  16MHz          SMD-4P3X5                  ABRACON_ABM3C        Crystal
+32U4   32u4           ATMEGA32U4                 QFN-44               ATMEGA 32U4
+C1     1uF            CAPACITOR0402              0402-CAP             Capacitor  CAP
+C2     0.1uF          CAPACITOR0402              0402-CAP             Capacitor  CAP
+C3     1uF            CAPACITOR0402              0402-CAP             Capacitor  CAP
+C4     0.1uF          CAPACITOR0402              0402-CAP             Capacitor  CAP
+C5     0.1uF          CAPACITOR0402              0402-CAP             Capacitor  CAP
+C6     0.1uF          CAPACITOR0402              0402-CAP             Capacitor  CAP
+C7     10uF           CAPACITOR0603              0603-CAP             Capacitor  CAP
+C8     12pF           CAPACITOR0402              0402-CAP             Capacitor  CAP
+C9     12pF           CAPACITOR0402              0402-CAP             Capacitor  CAP
+ICSP   HEADER         CON_03X2-VT_SMD            MA03X2-VT-SMD        Header, 3x2 (6-pin), SMT
+PX0    WS2812         SMART_LED3535              SMD_3535             Smart LED  SK6812  WS2812
+PX1    WS2812         SMART_LED3535              SMD_3535             Smart LED  SK6812  WS2812
+PX2    WS2812         SMART_LED3535              SMD_3535             Smart LED  SK6812  WS2812
+R1     10K            RESISTOR0402               0402-RES             Resistor
+R2     22R            RESISTOR0402               0402-RES             Resistor
+R3     22R            RESISTOR0402               0402-RES             Resistor
+R4     10K            RESISTOR0402               0402-RES             Resistor
+R5     10K            RESISTOR0402               0402-RES             Resistor
+R6     10K            RESISTOR0402               0402-RES             Resistor
+R7     300            RESISTOR0402               0402-RES             Resistor
+PWR    GREEN          SMT0402                    SMD_0402             LED SMT
+RX     GREEN          SMT0402                    SMD_0402             LED SMT
+TX     BLUE           SMT0402                    SMD_0402             LED SMT
+USB    USB Micro-B    USB-B-MICRO-SMTJAE-DX4R005 JAE-DX4R005          USB Micro - B-style      JAE DX4R005JJ2R1800 https://www.mouser.com/ProductDetail/DX4R005JJ2R1800
